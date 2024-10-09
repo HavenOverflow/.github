@@ -1,4 +1,4 @@
-# HavenOverflow
+![](HOv-logo.png)
 
 ## Overview
 HavenOverflow is a small security research group dedicated to the discovering and documentation of vulnerabilities and software development in various products manufactured by Google.
@@ -13,6 +13,7 @@ Exploits and software are released with the idea of keeping people aware and dev
 - [Evelyn](https://github.com/Evelyn3440) (Member, aka Evelyn3440)
 - [Leah](https://github.com/OtterCodes101) (Member, aka OtterDev)
 - [OlyB](https://github.com/binbashbanana) (Member, aka BinBashBanana)
+- [Symlink](https://github.com/ERROR-404-NULL-NOT-FOUND) (Member, aka ERROR-404)
 
 ## Our projects
 We don't currently have any _public_ projects, more will be added soon though!
