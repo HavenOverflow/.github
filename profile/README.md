@@ -15,6 +15,7 @@ Exploits and software are released with the idea of keeping people aware and dev
 - [OlyB](https://github.com/binbashbanana) (Member, aka BinBashBanana)
 - [Byte](https://github.com/Byteeeeeeee) (Member, aka uByte)
 - [RiftRiot](https://github.com/rifting) (Member, aka Rifting)
+- [appleflyer](https://github.com/appleflyerv3) (Member)
 
 ## Our projects
 We don't currently have any _public_ projects, more will be added soon though!
