@@ -10,7 +10,7 @@ Exploits and software are released with the idea of keeping people aware and dev
 - [Kayla](https://github.com/TheSpiritOfTheDark) (Co-Owner, aka TheTechFrog or 0x90b1)
 - [Katelyn](https://github.com/kxtzownsu) (Co-Owner, aka Kxtz or kxtzownsu)
 - [Boeing 747](https://github.com/notboeing747) (Staff, aka notboeing747)
-- [Evelyn](https://github.com/Evelyn3440) (Member, aka Evelyn3440)
+- [Evelyn](https://github.com/Evelyn3440) (Staff, aka Evelyn3440)
 - [Leah](https://github.com/OtterCodes101) (Member, aka OtterDev)
 - [OlyB](https://github.com/binbashbanana) (Member, aka BinBashBanana)
 - [Byte](https://github.com/Byteeeeeeee) (Member, aka uByte)
@@ -18,4 +18,6 @@ Exploits and software are released with the idea of keeping people aware and dev
 - [appleflyer](https://github.com/appleflyerv3) (Member)
 
 ## Our projects
-We don't currently have any _public_ projects, more will be added soon though!
+### Vbootinator
+A WIP web utility to decode and generate various values used by Vboot, such as FWMP, Firmware version, Kernel version, and Vboot keys; as well as a rehost of Olyb's Gbbflaginator.
+
