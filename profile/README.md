@@ -8,7 +8,6 @@ Exploits and software are released with the idea of keeping people aware and dev
 ## Members
 - [Hannah](https://github.com/ZeglolTheThirtySixth) (Owner, aka Zeglol1234 or ZeglolTheThirtySixth)
 - [Kayla](https://github.com/TheSpiritOfTheDark) (Co-Owner, aka TheTechFrog or 0x90b1)
-- [Kxtz](https://github.com/kxtzownsu) (Co-Owner, aka Kxtz or kxtzownsu)
 - [Boeing 747](https://github.com/notboeing747) (Staff, aka notboeing747)
 - [Evelyn](https://github.com/Evelyn3440) (Staff, aka Evelyn3440)
 - [Leah](https://github.com/OtterCodes101) (Member, aka OtterDev)
