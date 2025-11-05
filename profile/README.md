@@ -11,6 +11,7 @@ Exploits and software are released with the idea of keeping people aware and dev
 - [Boeing 747](https://github.com/notboeing747) (Co-Owner, aka notboeing747)
 - [Evelyn](https://github.com/Evelyn3440) (Staff, aka Evelyn3440)
 - [appleflyer](https://github.com/appleflyerv3) (Staff, aka applefritter)
+- [WeirdTreeThing](https://github.com/WeirdTreeThing) (Member, the chromebook UCM guy)
 - [Leah](https://github.com/OtterCodes101) (Member, aka OtterDev)
 - [OlyB](https://github.com/binbashbanana) (Member, aka BinBashBanana)
 - [Lxrd](https://github.com/spirame) (Member, aka SPIRAME)
