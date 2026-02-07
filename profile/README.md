@@ -18,5 +18,4 @@ Exploits and software are released with the idea of keeping people aware and dev
 - [Writable](https://github.com/munydev) (Member, aka Unretained)
 
 ## Our projects
-Currently no projects have been made public, more will be added here soon.
-
+- [Smiko](https://github.com/HavenOverflow/Smiko): Project aiming to reverse engineer and exploit the Titan Google Security Chip
