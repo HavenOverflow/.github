@@ -19,3 +19,4 @@ Exploits and software are released with the idea of keeping people aware and dev
 
 ## Our projects
 - [Smiko](https://github.com/HavenOverflow/Smiko): Project aiming to reverse engineer and exploit the Titan Google Security Chip
+- [GSCEmulator](https://github.com/HavenOverflow/gscemu): Project to emulate multiple revisions of the Titan Google Security Chip with Unicorn
