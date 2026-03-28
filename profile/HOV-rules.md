@@ -27,7 +27,7 @@ _The following are guidelines designed to maintain a welcoming and friendly envi
 ## Server Integrity Guidelines
 _The following are security guidelines designed to protect HavenOverflow owned servers and all members of said servers, as well as their contents._
 
-- No alternative accounts will be permitted to ensure group integrity. Should you desire to utilize an account that is not your main, you may temporarily join on it and your main account will be kicked until further notice, but this is non-negotiable.
+- No alternative accounts will be permitted to ensure group integrity. Should you desire to utilize an account that is not your main, you may temporarily join on it and your main account will be kicked until further notice, but this is non-negotiable. In the event you are found to be using an alternate account on the public server, you may be subject to punishment.
 
 - In the event your account is compromised, see to it that a staff member is alerted as quickly as possible, and your account will be kicked from the server and stripped of its permissions until the issue is resolved.
 
@@ -68,8 +68,10 @@ _The following are guidelines specific to offical members of HavenOverflow or me
 
 - In the event any of the above workstation requirements cannot be met, your access to private projects will be restricted.
 
+- In the event you are found to be involed in the leaking of personal or private information without proper consent from the owning part of said information, your access to HavenOverflow's Private and Public servers and services may be fully stripped without any further notice from a staff member whatsoever, and any form of appeals will be permenantly ignored.
+
 ## HavenOverflow Staff Guidelines
-_The following are guidelines specific to staff members and moderators of HavenOverflow and all HavenOverflow-owned servers._
+_The following are guidelines specific to staff members and moderators of HavenOverflow and all HavenOverflow-owned servers._ (This also includes owner members)
 
 - Any and all MUTE punishment cases must be justified and proof of an offense to one of the guidelines applied to the target user must be provided.
 
