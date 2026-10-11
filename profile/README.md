@@ -15,7 +15,6 @@ Exploits and software are released with the idea of keeping people aware and dev
 - [Leah](https://github.com/OtterCodes101) (Member, aka OtterDev)
 - [OlyB](https://github.com/binbashbanana) (Member, aka BinBashBanana)
 - [Codenerd87](https://github.com/codenerd87) (Member)
-- [Lxrd](https://github.com/spirame) (Member, aka SPIRAME)
 - [Writable](https://github.com/munydev) (Member, aka Unretained)
 
 ## Our projects
